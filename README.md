@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Kartik Ranaut</h1>
+<h1 align="center">Namaskar 👋, I'm Kartik Ranaut</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-ranaut&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-ranaut" /> </p>
