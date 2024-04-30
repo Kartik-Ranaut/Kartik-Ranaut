@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-commerce website**
 
-- 🌱 I’m currently learning **advanced backend**
+- 🌱 I’m currently learning **Advanced Backend**
 
 - 📫 How to reach me **ranautk6@gmail.com**
 
